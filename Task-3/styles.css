@@ -1,0 +1,82 @@
+
+
+body {
+    text-align: center;
+    background-color: #151516;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    text-shadow: 3px 0 #DA0463;
+    font-family: 'Borel', cursive;
+  
+  }
+  
+  .drum{
+    background-color: aqua;
+    color: black;
+    font-family: 'Black Ops One', cursive;
+  }
+
+  .set {
+    margin: 10% auto;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .drum {
+    outline: none;
+    font-size: 3rem;
+    line-height: 2;
+    font-weight: 900;
+    color: #0b0a0a;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+    box-shadow: 30px blue;
+  } 
+  .w{
+    border: 5px solid #de2209;
+  }
+
+  .a {
+    border: 5px solid #54de09;
+  }
+
+  .s {
+    border: 5px solid #09b4de;
+  }
+
+  .d{
+    border: 5px solid #de09c5;
+  }
+
+  .j{
+    border: 5px solid #de7409;
+  }
+
+  .k{
+    border: 5px solid #09debe;
+  }
+
+  .l{
+    border: 5px solid #de093b;
+  }
